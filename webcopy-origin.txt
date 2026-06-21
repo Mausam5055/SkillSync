@@ -1,0 +1,1512 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js
+File Name: E:\primer.com\ajax\libs\jquery\3.6.3\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js
+File Name: E:\primer.com\ajax\libs\webfont\1.6.26\webfont.js
+Content Type: text/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/@finsweet/attributes-cmsload@1/cmsload.js
+File Name: E:\primer.com\npm\@finsweet\attributes-cmsload@1\cmsload.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/@finsweet/attributes-scrolldisable@1/scrolldisable.js
+File Name: E:\primer.com\npm\@finsweet\attributes-scrolldisable@1\scrolldisable.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/@finsweet/attributes-selectcustom@1/selectcustom.js
+File Name: E:\primer.com\npm\@finsweet\attributes-selectcustom@1\selectcustom.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/@finsweet/attributes-sliderdots@1/sliderdots.js
+File Name: E:\primer.com\npm\@finsweet\attributes-sliderdots@1\sliderdots.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css
+File Name: E:\primer.com\npm\swiper@11\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js
+File Name: E:\primer.com\npm\swiper@11\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/5f5bd3587147f226c123530e_right.svg
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\5f5bd3587147f226c123530e_right.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/61bb206d9142bdd330bc9888_home-hero-bg.svg
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\61bb206d9142bdd330bc9888_home-hero-bg.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/62509d162244e8d21f932143_ABCGintoNord-Light.woff2
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\62509d162244e8d21f932143_ABCGintoNord-Light.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/62509d16eff1457e4cb67ca8_ABCGintoNord-Medium.woff2
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\62509d16eff1457e4cb67ca8_ABCGintoNord-Medium.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/62509d16f96b8161922a4d8d_ABCGintoNord-Regular.woff2
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\62509d16f96b8161922a4d8d_ABCGintoNord-Regular.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/62545e8b8b71663ac0e290dd_whitenoise2.png
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\62545e8b8b71663ac0e290dd_whitenoise2.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/625df64b1e9f2aa547922dd4_ph-1080-720.jpg
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\625df64b1e9f2aa547922dd4_ph-1080-720.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/6268077831144d360d14c403_fade-new.svg
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\6268077831144d360d14c403_fade-new.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/62695386df143279c0194cef_profile%4032.png
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\62695386df143279c0194cef_profile@32.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/6269538988af463a6f359fdb_profile%40256.png
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\6269538988af463a6f359fdb_profile@256.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/628f7f66cb160b514ed1dfc6_icon_close.svg
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\628f7f66cb160b514ed1dfc6_icon_close.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/658ee8bb574b3078cdcc4b58_White Noise.webp
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\658ee8bb574b3078cdcc4b58_White Noise.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/6595bbf7548fbd6347b79634_Marble CTA BG.webp
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\6595bbf7548fbd6347b79634_Marble CTA BG.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/6595e79395117dbf1edfca6f_About_Outcomes.webp
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\6595e79395117dbf1edfca6f_About_Outcomes.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/6595e793d7afdf175991d5a4_About_Passion.webp
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\6595e793d7afdf175991d5a4_About_Passion.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/6595e794231c68f0af9a6d76_About_Agency.webp
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\6595e794231c68f0af9a6d76_About_Agency.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/6595e794998ef41229c08c6e_About_Disruption.webp
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\6595e794998ef41229c08c6e_About_Disruption.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/6595e794bb5b68b96ef03c00_About_Personalization.webp
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\6595e794bb5b68b96ef03c00_About_Personalization.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/6595e7a20feb7b10ab63a245_About_Partnership.webp
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\6595e7a20feb7b10ab63a245_About_Partnership.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/6596b7862fb5991720b40906_White Noise Overlay.webp
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\6596b7862fb5991720b40906_White Noise Overlay.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/65a01766d5b62ced9a2e86cf_Resource BG.webp
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\65a01766d5b62ced9a2e86cf_Resource BG.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/65a4d567d616b7546ad264b6_Primer Hero.webp
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\65a4d567d616b7546ad264b6_Primer Hero.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/65cac5c1c3b29b2093482efb_illustration_planet.png
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\65cac5c1c3b29b2093482efb_illustration_planet.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/65ffd7697523e33dfa7887d3_Primer.svg
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\65ffd7697523e33dfa7887d3_Primer.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/6600057168384b0aaed22580_isolated_sparkle2-p-500.webp
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\6600057168384b0aaed22580_isolated_sparkle2-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/6600057168384b0aaed22580_isolated_sparkle2.webp
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\6600057168384b0aaed22580_isolated_sparkle2.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/660093537cc100ec6be4a576_globe.webp
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\660093537cc100ec6be4a576_globe.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/6601cf82c097752473930c71_white noise-2.png
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\6601cf82c097752473930c71_white noise-2.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/6606d2aeafd0440ca553a5d6_down.svg
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\6606d2aeafd0440ca553a5d6_down.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/661e854dac1718bff94cda6a_testimonial. image 2.webp
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\661e854dac1718bff94cda6a_testimonial. image 2.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/661e854dec1454bd7986714f_testimonial image 1.webp
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\661e854dec1454bd7986714f_testimonial image 1.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/661f941c31df14189e31dfe9_planet-illustration.webp
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\661f941c31df14189e31dfe9_planet-illustration.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/662e33c898ac81f8192d6184_Miami.webp
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\662e33c898ac81f8192d6184_Miami.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/662e4d477e383658057ee5e6_Liberty city map.webp
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\662e4d477e383658057ee5e6_Liberty city map.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/662e51420b042c52b36a806b_Liberty city mobile.webp
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\662e51420b042c52b36a806b_Liberty city mobile.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/662f651f7e5cf89101a1867d_Coconut Grove Map.webp
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\662f651f7e5cf89101a1867d_Coconut Grove Map.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/662f6946a8e6d82049b815a0_school-p-500.webp
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\662f6946a8e6d82049b815a0_school-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/662f6946a8e6d82049b815a0_school-p-800.webp
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\662f6946a8e6d82049b815a0_school-p-800.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/662f6946a8e6d82049b815a0_school.webp
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\662f6946a8e6d82049b815a0_school.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/662f6c3eaa728276316e6875_fort lauderdale map.webp
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\662f6c3eaa728276316e6875_fort lauderdale map.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/662f6db48a1214a0cb7a1013_Kendall map.webp
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\662f6db48a1214a0cb7a1013_Kendall map.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/662f72360709e00ab0fe4bbc_kendall mobile map.webp
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\662f72360709e00ab0fe4bbc_kendall mobile map.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/662f7f85ee3ba882bbaa19f9_Monochrome-1714164004569 1.webp
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\662f7f85ee3ba882bbaa19f9_Monochrome-1714164004569 1.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/662f89e1a809dc1922d88ae2_Scottsdale map.webp
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\662f89e1a809dc1922d88ae2_Scottsdale map.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/662f8d9fb129676cfeecb792_South tempe map.webp
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\662f8d9fb129676cfeecb792_South tempe map.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/66324a567c4d28de69797cf3_Miami map - 1920.webp
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\66324a567c4d28de69797cf3_Miami map - 1920.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/66325dc3ac5376adf046ac89_Miami shores map 1920.webp
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\66325dc3ac5376adf046ac89_Miami shores map 1920.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/66325fd75b5abfc2e7b760e9_Liberty city map 1920.webp
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\66325fd75b5abfc2e7b760e9_Liberty city map 1920.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/6632638143ebe4caa312efd8_Coconut Grove Map 1920.jpg
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\6632638143ebe4caa312efd8_Coconut Grove Map 1920.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/663264485b5abfc2e7bad959_Scottsdale map 1920.webp
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\663264485b5abfc2e7bad959_Scottsdale map 1920.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/66326497dcea1807beac8e18_Fort Lauderdale 1920.webp
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\66326497dcea1807beac8e18_Fort Lauderdale 1920.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/66326564824e460ac26e1c8f_Kendall map 1920.webp
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\66326564824e460ac26e1c8f_Kendall map 1920.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/663265b574bac8cc87adf12e_South tempe map 1920.webp
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\663265b574bac8cc87adf12e_South tempe map 1920.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/672e6731ae296eee9cb9ce34_Search icon.svg
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\672e6731ae296eee9cb9ce34_Search icon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/672e6732ae296eee9cb9ce4f_Paper Plane.png
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\672e6732ae296eee9cb9ce4f_Paper Plane.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/67594dd2f8987a3867a8d715_ed choice logo.png
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\67594dd2f8987a3867a8d715_ed choice logo.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/67594dd30ed419bd4d37590a_politico.png
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\67594dd30ed419bd4d37590a_politico.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/67594dd3cdecb7d277c175bd_inc.png
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\67594dd3cdecb7d277c175bd_inc.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/67594dfb50ed7ca3b066cd40_fortune-2.png
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\67594dfb50ed7ca3b066cd40_fortune-2.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/css/withprimer.webflow.shared.a55fd9b0a.css
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\css\withprimer.webflow.shared.a55fd9b0a.css
+Content Type: text/css
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/js/webflow.f24df8ad.494168ba0b2c1468.js
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\js\webflow.f24df8ad.494168ba0b2c1468.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/js/webflow.schunk.8cf54e2d87d74949.js
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\js\webflow.schunk.8cf54e2d87d74949.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/5f51aff01e95c4ec1baec2ef/js/webflow.schunk.f2efb3c5440a81cf.js
+File Name: E:\primer.com\5f51aff01e95c4ec1baec2ef\js\webflow.schunk.f2efb3c5440a81cf.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/68f8a2987f659ad3c591aebb_Sirca-Medium-Trial.otf
+File Name: E:\primer.com\68f68958c2668295d6501e97\68f8a2987f659ad3c591aebb_Sirca-Medium-Trial.otf
+Content Type: font/otf
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/68f8a2b913458bf5e12a631a_test-soehne-buch.woff
+File Name: E:\primer.com\68f68958c2668295d6501e97\68f8a2b913458bf5e12a631a_test-soehne-buch.woff
+Content Type: font/woff
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/68f8b4d47a7594fc8a560519_Works Icon 3.svg
+File Name: E:\primer.com\68f68958c2668295d6501e97\68f8b4d47a7594fc8a560519_Works Icon 3.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/690064252627c208d02bf227_testimonial-2-p-500.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\690064252627c208d02bf227_testimonial-2-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/690064252627c208d02bf227_testimonial-2.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\690064252627c208d02bf227_testimonial-2.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/69144650d4897f46b35ab260_ryan.avif
+File Name: E:\primer.com\68f68958c2668295d6501e97\69144650d4897f46b35ab260_ryan.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/6917a75d30ca8955a143738f_Image-3-p-500.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\6917a75d30ca8955a143738f_Image-3-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/6917a75d30ca8955a143738f_Image-3.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\6917a75d30ca8955a143738f_Image-3.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/6917a75d73e3439f8338ee49_csms--024-p-500.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\6917a75d73e3439f8338ee49_csms--024-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/6917a75d73e3439f8338ee49_csms--024-p-800.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\6917a75d73e3439f8338ee49_csms--024-p-800.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/6917a75d73e3439f8338ee49_csms--024.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\6917a75d73e3439f8338ee49_csms--024.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/6917a75dbdf56f1fb45b5e4f_Screenshot 2025-09-11 at 9.07.14 AM.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\6917a75dbdf56f1fb45b5e4f_Screenshot 2025-09-11 at 9.07.14 AM.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/6917a75de7a6b27a89f78ec0_102825-NEWKID-PRIMER-Group3-68-2777 2.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\6917a75de7a6b27a89f78ec0_102825-NEWKID-PRIMER-Group3-68-2777 2.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/691ce7b67a88a6325a75b78a_test-soehne-kraftig.woff
+File Name: E:\primer.com\68f68958c2668295d6501e97\691ce7b67a88a6325a75b78a_test-soehne-kraftig.woff
+Content Type: font/woff
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/691cfea3b960a8394c5d085a_102825-NEWKID-PRIMER-Group2-35-1222.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\691cfea3b960a8394c5d085a_102825-NEWKID-PRIMER-Group2-35-1222.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/691cfea3dec603ce415aa060_real estate hero.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\691cfea3dec603ce415aa060_real estate hero.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/691cff39fbd7d68c36772d86_fellowship hero.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\691cff39fbd7d68c36772d86_fellowship hero.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/692de2c45596a8ee806199d6_102825-NEWKID-PRIMER-Classroom4-Science-8316.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\692de2c45596a8ee806199d6_102825-NEWKID-PRIMER-Classroom4-Science-8316.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/692de2c4c0c4e1332ff3e4cf_102825-NEWKID-PRIMER-Classroom4-Science-8316-1.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\692de2c4c0c4e1332ff3e4cf_102825-NEWKID-PRIMER-Classroom4-Science-8316-1.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/692de404683d23cd10d90911_csms--024.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\692de404683d23cd10d90911_csms--024.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/692de404bba4243c848a4440_csms--024-2.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\692de404bba4243c848a4440_csms--024-2.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/692de404f681ff59a0c31093_csms--026.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\692de404f681ff59a0c31093_csms--026.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/692de405d8f0dcd22bb9ac09_csms--024-1.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\692de405d8f0dcd22bb9ac09_csms--024-1.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/692de40620c073f011c0494e_Hero Image.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\692de40620c073f011c0494e_Hero Image.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/6967a7c9536ea62a5c5245e6_fellow-bottom.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\6967a7c9536ea62a5c5245e6_fellow-bottom.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/6967a8c703bf2d212fc1b3de_careers-tile-03.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\6967a8c703bf2d212fc1b3de_careers-tile-03.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/6967a8c74909575e7b674ede_careers-tile-02.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\6967a8c74909575e7b674ede_careers-tile-02.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/6967a8c7a64337f877992f39_careers-tile-01.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\6967a8c7a64337f877992f39_careers-tile-01.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/6967aaf38b5c3a66cfe120f8_estate-bottom-p-1080.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\6967aaf38b5c3a66cfe120f8_estate-bottom-p-1080.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/6967aaf38b5c3a66cfe120f8_estate-bottom-p-500.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\6967aaf38b5c3a66cfe120f8_estate-bottom-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/6967aaf38b5c3a66cfe120f8_estate-bottom-p-800.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\6967aaf38b5c3a66cfe120f8_estate-bottom-p-800.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/6967aaf38b5c3a66cfe120f8_estate-bottom.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\6967aaf38b5c3a66cfe120f8_estate-bottom.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/6967aca8d31a0fc2778e303c_k-2 tiles 01-p-500.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\6967aca8d31a0fc2778e303c_k-2 tiles 01-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/6967aca8d31a0fc2778e303c_k-2 tiles 01.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\6967aca8d31a0fc2778e303c_k-2 tiles 01.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/6967aca8d31a0fc2778e303f_k-2 tiles 02.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\6967aca8d31a0fc2778e303f_k-2 tiles 02.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/6967aca9038c8a80fb0f05a2_k-2 hero.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\6967aca9038c8a80fb0f05a2_k-2 hero.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/6967aca99d9fa3e24c49ae32_k-2 large.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\6967aca99d9fa3e24c49ae32_k-2 large.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/6967acb38411cb0696cd77aa_company-timeline-10.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\6967acb38411cb0696cd77aa_company-timeline-10.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/6967ad12830c2cd287f7dc22_3-5 hero.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\6967ad12830c2cd287f7dc22_3-5 hero.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/6967ad1dd46f3961cb70592a_6-8 hero.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\6967ad1dd46f3961cb70592a_6-8 hero.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/6967ad1df35a235d94443d5f_6-8 bottom.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\6967ad1df35a235d94443d5f_6-8 bottom.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/6970d2b8460da534b23a1d0c_Graph 5.svg
+File Name: E:\primer.com\68f68958c2668295d6501e97\6970d2b8460da534b23a1d0c_Graph 5.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/6970d2b893b7d9bb71761b1e_Graph 6.svg
+File Name: E:\primer.com\68f68958c2668295d6501e97\6970d2b893b7d9bb71761b1e_Graph 6.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/6970d2b897f24913eb646c53_Graph 4.svg
+File Name: E:\primer.com\68f68958c2668295d6501e97\6970d2b897f24913eb646c53_Graph 4.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/697294b14d4e3129a1f3a0eb_102825-NEWKID-PRIMER-Group3-68-2777-p-1080.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\697294b14d4e3129a1f3a0eb_102825-NEWKID-PRIMER-Group3-68-2777-p-1080.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/697294b14d4e3129a1f3a0eb_102825-NEWKID-PRIMER-Group3-68-2777-p-500.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\697294b14d4e3129a1f3a0eb_102825-NEWKID-PRIMER-Group3-68-2777-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/697294b14d4e3129a1f3a0eb_102825-NEWKID-PRIMER-Group3-68-2777-p-800.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\697294b14d4e3129a1f3a0eb_102825-NEWKID-PRIMER-Group3-68-2777-p-800.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/697294b14d4e3129a1f3a0eb_102825-NEWKID-PRIMER-Group3-68-2777.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\697294b14d4e3129a1f3a0eb_102825-NEWKID-PRIMER-Group3-68-2777.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/697294c3ff16976e16c24f34_102825-NEWKID-PRIMER-Classroom1-K2-5797.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\697294c3ff16976e16c24f34_102825-NEWKID-PRIMER-Classroom1-K2-5797.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/697295abc9e87177dba48b51_102825-NEWKID-PRIMER-Backlot1-TopDown-9102.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\697295abc9e87177dba48b51_102825-NEWKID-PRIMER-Backlot1-TopDown-9102.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/697295b5c28ee37a2e272f58_102825-NEWKID-PRIMER-Classroom4-Science-7884.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\697295b5c28ee37a2e272f58_102825-NEWKID-PRIMER-Classroom4-Science-7884.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/697295ba3d6c6e69387a75de_102825-NEWKID-PRIMER-Classroom3-35-6734.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\697295ba3d6c6e69387a75de_102825-NEWKID-PRIMER-Classroom3-35-6734.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/69729604cc529d2f5ad03cc5_102825-NEWKID-PRIMER-Group4-4885.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\69729604cc529d2f5ad03cc5_102825-NEWKID-PRIMER-Group4-4885.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/697296178962115bcaea94d1_102825-NEWKID-PRIMER-Friends1-4215.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\697296178962115bcaea94d1_102825-NEWKID-PRIMER-Friends1-4215.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/697296e88ebac133651a6df1_careers.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\697296e88ebac133651a6df1_careers.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/6972973b26c38d71072fd27a_102825-NEWKID-PRIMER-Classroom4-Science-8316.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\6972973b26c38d71072fd27a_102825-NEWKID-PRIMER-Classroom4-Science-8316.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/697297c03d6c6e69387ad6dc_102825-NEWKID-PRIMER-Stage1-5390-p-1080.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\697297c03d6c6e69387ad6dc_102825-NEWKID-PRIMER-Stage1-5390-p-1080.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/697297c03d6c6e69387ad6dc_102825-NEWKID-PRIMER-Stage1-5390-p-500.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\697297c03d6c6e69387ad6dc_102825-NEWKID-PRIMER-Stage1-5390-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/697297c03d6c6e69387ad6dc_102825-NEWKID-PRIMER-Stage1-5390-p-800.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\697297c03d6c6e69387ad6dc_102825-NEWKID-PRIMER-Stage1-5390-p-800.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/697297c03d6c6e69387ad6dc_102825-NEWKID-PRIMER-Stage1-5390.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\697297c03d6c6e69387ad6dc_102825-NEWKID-PRIMER-Stage1-5390.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/697299267480e899ebf273ec_3-5 grade.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\697299267480e899ebf273ec_3-5 grade.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/69729926d481ceded67fffb6_6-8 grade.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\69729926d481ceded67fffb6_6-8 grade.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/69779e69f4cc90f366f9e1c5_Favicon.png
+File Name: E:\primer.com\68f68958c2668295d6501e97\69779e69f4cc90f366f9e1c5_Favicon.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/69779e6d6a1c3709f0bbb722_webclip.png
+File Name: E:\primer.com\68f68958c2668295d6501e97\69779e6d6a1c3709f0bbb722_webclip.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/6977a40ad0ab5af7d3fc7d14_102825-NEWKID-PRIMER-Classroom4-Science-8316-p-500.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\6977a40ad0ab5af7d3fc7d14_102825-NEWKID-PRIMER-Classroom4-Science-8316-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/6977a40ad0ab5af7d3fc7d14_102825-NEWKID-PRIMER-Classroom4-Science-8316.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\6977a40ad0ab5af7d3fc7d14_102825-NEWKID-PRIMER-Classroom4-Science-8316.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/6977c005dac304f4da17a994_102825-NEWKID-PRIMER-Backlot1-TopDown-9184 2.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\6977c005dac304f4da17a994_102825-NEWKID-PRIMER-Backlot1-TopDown-9184 2.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/6977c0bb7fe72bb6d3c4fa71_102825-NEWKID-PRIMER-Classroom1-K2-5942-p-1080.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\6977c0bb7fe72bb6d3c4fa71_102825-NEWKID-PRIMER-Classroom1-K2-5942-p-1080.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/6977c0bb7fe72bb6d3c4fa71_102825-NEWKID-PRIMER-Classroom1-K2-5942-p-1600.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\6977c0bb7fe72bb6d3c4fa71_102825-NEWKID-PRIMER-Classroom1-K2-5942-p-1600.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/6977c0bb7fe72bb6d3c4fa71_102825-NEWKID-PRIMER-Classroom1-K2-5942-p-500.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\6977c0bb7fe72bb6d3c4fa71_102825-NEWKID-PRIMER-Classroom1-K2-5942-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/6977c0bb7fe72bb6d3c4fa71_102825-NEWKID-PRIMER-Classroom1-K2-5942-p-800.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\6977c0bb7fe72bb6d3c4fa71_102825-NEWKID-PRIMER-Classroom1-K2-5942-p-800.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/6977c0bb7fe72bb6d3c4fa71_102825-NEWKID-PRIMER-Classroom1-K2-5942.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\6977c0bb7fe72bb6d3c4fa71_102825-NEWKID-PRIMER-Classroom1-K2-5942.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/6977f57c33d56d2587158851_primer-company.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\6977f57c33d56d2587158851_primer-company.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/698797d676e5008c97c615eb_tuition herp 1.webp
+File Name: E:\primer.com\68f68958c2668295d6501e97\698797d676e5008c97c615eb_tuition herp 1.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/69d6ecea00ecc1b8f29d7f04_soehne-buch.woff2
+File Name: E:\primer.com\68f68958c2668295d6501e97\69d6ecea00ecc1b8f29d7f04_soehne-buch.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/69d6ecea8cfcdaaf2b226ded_soehne-kraftig.woff2
+File Name: E:\primer.com\68f68958c2668295d6501e97\69d6ecea8cfcdaaf2b226ded_soehne-kraftig.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/69d6ed8be6935e8d0fff2bda_Sirca-Medium.woff2
+File Name: E:\primer.com\68f68958c2668295d6501e97\69d6ed8be6935e8d0fff2bda_Sirca-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/6a2050b8af91f02cff0698aa_home-hero-new.avif
+File Name: E:\primer.com\68f68958c2668295d6501e97\6a2050b8af91f02cff0698aa_home-hero-new.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/css/primer-4321.shared.e8996a7d1.min.css
+File Name: E:\primer.com\68f68958c2668295d6501e97\css\primer-4321.shared.e8996a7d1.min.css
+Content Type: text/css
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/js/primer-4321.a0aa6ca1.1176730d49a681da.js
+File Name: E:\primer.com\68f68958c2668295d6501e97\js\primer-4321.a0aa6ca1.1176730d49a681da.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/68f68958c2668295d6501e97/js/primer-4321.schunk.7c514c4b18297836.js
+File Name: E:\primer.com\68f68958c2668295d6501e97\js\primer-4321.schunk.7c514c4b18297836.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/691325c32a09ad1a7cb9654a_Timeline-02.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\691325c32a09ad1a7cb9654a_Timeline-02.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/691325d92fdf4716592fe6db_Timeline-03.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\691325d92fdf4716592fe6db_Timeline-03.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/69132620e61a9385eb454617_Timeline-04.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\69132620e61a9385eb454617_Timeline-04.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/6913263a556c4a2b1d0207a8_Timeline-05.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\6913263a556c4a2b1d0207a8_Timeline-05.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/6931a2e00e46a495a1d3c042_Images-1-p-500.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\6931a2e00e46a495a1d3c042_Images-1-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/6931a2e00e46a495a1d3c042_Images-1.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\6931a2e00e46a495a1d3c042_Images-1.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/6931a2fd55cc701d00d15540_Images-3-p-500.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\6931a2fd55cc701d00d15540_Images-3-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/6931a2fd55cc701d00d15540_Images-3.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\6931a2fd55cc701d00d15540_Images-3.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/6931a3060bbb72571411a0eb_Images-4-p-500.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\6931a3060bbb72571411a0eb_Images-4-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/6931a3060bbb72571411a0eb_Images-4.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\6931a3060bbb72571411a0eb_Images-4.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/6931a30f6ebd608deaa0fd89_Images-5-p-500.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\6931a30f6ebd608deaa0fd89_Images-5-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/6931a30f6ebd608deaa0fd89_Images-5.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\6931a30f6ebd608deaa0fd89_Images-5.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/6931a319214b00980e8d11f3_Images-6-p-500.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\6931a319214b00980e8d11f3_Images-6-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/6931a319214b00980e8d11f3_Images-6.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\6931a319214b00980e8d11f3_Images-6.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/6931a3339a413dff83be37a6_Images-p-500.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\6931a3339a413dff83be37a6_Images-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/6931a3339a413dff83be37a6_Images.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\6931a3339a413dff83be37a6_Images.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/696685d9f7871b087041b4e3_tesimonial-img-11.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\696685d9f7871b087041b4e3_tesimonial-img-11.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/69668646af3c465df421297b_tesimonial-img-08.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\69668646af3c465df421297b_tesimonial-img-08.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/6966874c48eda41a42a232da_tesimonial-img-05.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\6966874c48eda41a42a232da_tesimonial-img-05.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/6966876a3e90063831fecdbc_tesimonial-img-06.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\6966876a3e90063831fecdbc_tesimonial-img-06.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/6966877bca5117f1759e808f_tesimonial-img-01.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\6966877bca5117f1759e808f_tesimonial-img-01.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/6966878f5edd392c8c554e5d_tesimonial-img-07.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\6966878f5edd392c8c554e5d_tesimonial-img-07.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/696687bc25355378d86e4a00_tesimonial-img-09.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\696687bc25355378d86e4a00_tesimonial-img-09.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/696687e69543af7004e9164a_tesimonial-img-04.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\696687e69543af7004e9164a_tesimonial-img-04.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/6967aa61f2e7846c91d1850f_company-timeline-06.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\6967aa61f2e7846c91d1850f_company-timeline-06.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/6967aa84befceff096723222_company-timeline-02.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\6967aa84befceff096723222_company-timeline-02.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/6967aa96e7d42af367897894_company-timeline-04.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\6967aa96e7d42af367897894_company-timeline-04.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/6967aaa2ef7adff0e2178afc_company-timeline-08.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\6967aaa2ef7adff0e2178afc_company-timeline-08.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/6967aaac1616d87c1582d5f5_company-timeline-03.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\6967aaac1616d87c1582d5f5_company-timeline-03.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/696eb406b63339c9d8981592_659eeaae434fc8e2dcfd0396_Primer_Scottsdale-p-500.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\696eb406b63339c9d8981592_659eeaae434fc8e2dcfd0396_Primer_Scottsdale-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/696eb406b63339c9d8981592_659eeaae434fc8e2dcfd0396_Primer_Scottsdale.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\696eb406b63339c9d8981592_659eeaae434fc8e2dcfd0396_Primer_Scottsdale.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/696fbe4fb56a98b62a473d48_102825-NEWKID-PRIMER-Backlot1-TopDown-9184 2 - Large-p-1080.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\696fbe4fb56a98b62a473d48_102825-NEWKID-PRIMER-Backlot1-TopDown-9184 2 - Large-p-1080.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/696fbe4fb56a98b62a473d48_102825-NEWKID-PRIMER-Backlot1-TopDown-9184 2 - Large-p-500.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\696fbe4fb56a98b62a473d48_102825-NEWKID-PRIMER-Backlot1-TopDown-9184 2 - Large-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/696fbe4fb56a98b62a473d48_102825-NEWKID-PRIMER-Backlot1-TopDown-9184 2 - Large-p-800.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\696fbe4fb56a98b62a473d48_102825-NEWKID-PRIMER-Backlot1-TopDown-9184 2 - Large-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/696fbe4fb56a98b62a473d48_102825-NEWKID-PRIMER-Backlot1-TopDown-9184 2 - Large.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\696fbe4fb56a98b62a473d48_102825-NEWKID-PRIMER-Backlot1-TopDown-9184 2 - Large.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/696fc1eca22824505c7fec64_102825-NEWKID-PRIMER-Classroom5-TopDown-8527 - Large-p-1080.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\696fc1eca22824505c7fec64_102825-NEWKID-PRIMER-Classroom5-TopDown-8527 - Large-p-1080.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/696fc1eca22824505c7fec64_102825-NEWKID-PRIMER-Classroom5-TopDown-8527 - Large-p-500.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\696fc1eca22824505c7fec64_102825-NEWKID-PRIMER-Classroom5-TopDown-8527 - Large-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/696fc1eca22824505c7fec64_102825-NEWKID-PRIMER-Classroom5-TopDown-8527 - Large-p-800.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\696fc1eca22824505c7fec64_102825-NEWKID-PRIMER-Classroom5-TopDown-8527 - Large-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/696fc1eca22824505c7fec64_102825-NEWKID-PRIMER-Classroom5-TopDown-8527 - Large.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\696fc1eca22824505c7fec64_102825-NEWKID-PRIMER-Classroom5-TopDown-8527 - Large.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/696fc2215ad631dd46f0389f_102825-NEWKID-PRIMER-Hallway1-35-6995 - Large.jpg
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\696fc2215ad631dd46f0389f_102825-NEWKID-PRIMER-Hallway1-35-6995 - Large.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/696fcba7d799f92cc9fddf39_102825-NEWKID-PRIMER-Classroom4-Science-7995 - Large-p-1080.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\696fcba7d799f92cc9fddf39_102825-NEWKID-PRIMER-Classroom4-Science-7995 - Large-p-1080.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/696fcba7d799f92cc9fddf39_102825-NEWKID-PRIMER-Classroom4-Science-7995 - Large-p-500.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\696fcba7d799f92cc9fddf39_102825-NEWKID-PRIMER-Classroom4-Science-7995 - Large-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/696fcba7d799f92cc9fddf39_102825-NEWKID-PRIMER-Classroom4-Science-7995 - Large-p-800.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\696fcba7d799f92cc9fddf39_102825-NEWKID-PRIMER-Classroom4-Science-7995 - Large-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/696fcba7d799f92cc9fddf39_102825-NEWKID-PRIMER-Classroom4-Science-7995 - Large.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\696fcba7d799f92cc9fddf39_102825-NEWKID-PRIMER-Classroom4-Science-7995 - Large.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/696fcc9173ab3ea6bda301f2_102825-NEWKID-PRIMER-Backlot1-TopDown-9102 - Large-p-1080.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\696fcc9173ab3ea6bda301f2_102825-NEWKID-PRIMER-Backlot1-TopDown-9102 - Large-p-1080.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/696fcc9173ab3ea6bda301f2_102825-NEWKID-PRIMER-Backlot1-TopDown-9102 - Large-p-500.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\696fcc9173ab3ea6bda301f2_102825-NEWKID-PRIMER-Backlot1-TopDown-9102 - Large-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/696fcc9173ab3ea6bda301f2_102825-NEWKID-PRIMER-Backlot1-TopDown-9102 - Large-p-800.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\696fcc9173ab3ea6bda301f2_102825-NEWKID-PRIMER-Backlot1-TopDown-9102 - Large-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/696fcc9173ab3ea6bda301f2_102825-NEWKID-PRIMER-Backlot1-TopDown-9102 - Large.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\696fcc9173ab3ea6bda301f2_102825-NEWKID-PRIMER-Backlot1-TopDown-9102 - Large.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/696fcd6f7f5dcabf3263d581_102825-NEWKID-PRIMER-Backlot1-TopDown-8673 - Large.jpg
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\696fcd6f7f5dcabf3263d581_102825-NEWKID-PRIMER-Backlot1-TopDown-8673 - Large.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/6970043981730b2fd0d37585_Black Border.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\6970043981730b2fd0d37585_Black Border.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/6972533eb38bfb231f8ce831_logos02.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\6972533eb38bfb231f8ce831_logos02.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/6972534eef48d52b1d892ae1_logos03-p-500.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\6972534eef48d52b1d892ae1_logos03-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/6972534eef48d52b1d892ae1_logos03.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\6972534eef48d52b1d892ae1_logos03.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/69725457fd3beed90eba476a_Marque Item 20.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\69725457fd3beed90eba476a_Marque Item 20.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/69725472f798bf545ff51d5d_Marque Item 04.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\69725472f798bf545ff51d5d_Marque Item 04.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/6972548138fd99855123775d_Marque Item 05.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\6972548138fd99855123775d_Marque Item 05.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/697254905ad7110573b5bf51_Marque Item 18.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\697254905ad7110573b5bf51_Marque Item 18.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/6972549ffd6f6b6513f11386_Marque Item 19.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\6972549ffd6f6b6513f11386_Marque Item 19.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/697254ababf521af021101f0_Marque Item 06.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\697254ababf521af021101f0_Marque Item 06.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/697254b762d777cb170b24c8_Marque Item 14.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\697254b762d777cb170b24c8_Marque Item 14.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/697254c566522fba8769df33_Marque Item 15.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\697254c566522fba8769df33_Marque Item 15.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/697254d19beca12c4558c84b_Marque Item 16.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\697254d19beca12c4558c84b_Marque Item 16.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/697254dd1d2cc689fbe602ec_Marque Item 17.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\697254dd1d2cc689fbe602ec_Marque Item 17.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/697254e6cb59f0fe90e1b62a_Marque Item 01.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\697254e6cb59f0fe90e1b62a_Marque Item 01.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/697254efeb37363cbf083359_Marque Item 21.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\697254efeb37363cbf083359_Marque Item 21.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/697255022fe8f0ffcb33b5d8_Marque Item 07.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\697255022fe8f0ffcb33b5d8_Marque Item 07.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/6972550df798bf545ff5440b_Marque Item 08.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\6972550df798bf545ff5440b_Marque Item 08.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/6972551c4b592be5fa8a6678_Marque Item 09.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\6972551c4b592be5fa8a6678_Marque Item 09.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/6972552852ea3ed0d13df75c_Marque Item 10.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\6972552852ea3ed0d13df75c_Marque Item 10.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/6972553400df8cd025c1e802_Marque Item 03.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\6972553400df8cd025c1e802_Marque Item 03.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/69725541629cbbf4aa8f9891_Marque Item 13.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\69725541629cbbf4aa8f9891_Marque Item 13.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/6972554ce3e9a98ba2a3b31f_Marque Item 02.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\6972554ce3e9a98ba2a3b31f_Marque Item 02.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/6972555f2d06cd852abdc3a0_Marque Item 12.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\6972555f2d06cd852abdc3a0_Marque Item 12.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/6972556df5e720f152867b15_Marque Item 11.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\6972556df5e720f152867b15_Marque Item 11.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/69729515ac36291ed69c7e5c_102825-NEWKID-PRIMER-Backlot1-TopDown-9184 2-p-1080.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\69729515ac36291ed69c7e5c_102825-NEWKID-PRIMER-Backlot1-TopDown-9184 2-p-1080.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/69729515ac36291ed69c7e5c_102825-NEWKID-PRIMER-Backlot1-TopDown-9184 2-p-500.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\69729515ac36291ed69c7e5c_102825-NEWKID-PRIMER-Backlot1-TopDown-9184 2-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/69729515ac36291ed69c7e5c_102825-NEWKID-PRIMER-Backlot1-TopDown-9184 2-p-800.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\69729515ac36291ed69c7e5c_102825-NEWKID-PRIMER-Backlot1-TopDown-9184 2-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/69729515ac36291ed69c7e5c_102825-NEWKID-PRIMER-Backlot1-TopDown-9184 2.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\69729515ac36291ed69c7e5c_102825-NEWKID-PRIMER-Backlot1-TopDown-9184 2.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/69729896f546da048ebb92f8_102825-NEWKID-PRIMER-Group3-68-2777-p-500.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\69729896f546da048ebb92f8_102825-NEWKID-PRIMER-Group3-68-2777-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/69729896f546da048ebb92f8_102825-NEWKID-PRIMER-Group3-68-2777-p-800.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\69729896f546da048ebb92f8_102825-NEWKID-PRIMER-Group3-68-2777-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/69729896f546da048ebb92f8_102825-NEWKID-PRIMER-Group3-68-2777.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\69729896f546da048ebb92f8_102825-NEWKID-PRIMER-Group3-68-2777.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/697298b92fdeb274325f6597_102825-NEWKID-PRIMER-Group1-K2-0571-p-500.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\697298b92fdeb274325f6597_102825-NEWKID-PRIMER-Group1-K2-0571-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/697298b92fdeb274325f6597_102825-NEWKID-PRIMER-Group1-K2-0571-p-800.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\697298b92fdeb274325f6597_102825-NEWKID-PRIMER-Group1-K2-0571-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/697298b92fdeb274325f6597_102825-NEWKID-PRIMER-Group1-K2-0571.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\697298b92fdeb274325f6597_102825-NEWKID-PRIMER-Group1-K2-0571.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/697415b12973a1070b19d0ef_102825-NEWKID-PRIMER-Classroom1-K2-5797.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\697415b12973a1070b19d0ef_102825-NEWKID-PRIMER-Classroom1-K2-5797.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/6978d64d99a27baf599880ec_102825-NEWKID-PRIMER-Group2-35-1702-p-500.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\6978d64d99a27baf599880ec_102825-NEWKID-PRIMER-Group2-35-1702-p-500.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/6978d64d99a27baf599880ec_102825-NEWKID-PRIMER-Group2-35-1702-p-800.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\6978d64d99a27baf599880ec_102825-NEWKID-PRIMER-Group2-35-1702-p-800.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/6978d64d99a27baf599880ec_102825-NEWKID-PRIMER-Group2-35-1702.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\6978d64d99a27baf599880ec_102825-NEWKID-PRIMER-Group2-35-1702.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/699ce6c16532c8be8b272651_campus-tampa.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\699ce6c16532c8be8b272651_campus-tampa.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/699ce6e72054a72ded652510_campus-potranco.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\699ce6e72054a72ded652510_campus-potranco.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/699ce8e8338c9eafa6ece260_campus-ocala.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\699ce8e8338c9eafa6ece260_campus-ocala.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/699ce97a452254658aa25619_campus-milton-pace.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\699ce97a452254658aa25619_campus-milton-pace.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/699cea535f6551a933798638_campus-university-heights_1.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\699cea535f6551a933798638_campus-university-heights_1.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/699cea568a9ff0c1fa82a936_campus-university-heights_2.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\699cea568a9ff0c1fa82a936_campus-university-heights_2.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/699ceb63e421220a8acfbf90_campus-miami-shores.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\699ceb63e421220a8acfbf90_campus-miami-shores.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/699ceb69f1e0d2380d46a465_campus-miami-shores_1.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\699ceb69f1e0d2380d46a465_campus-miami-shores_1.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/699ceb6ccd687d8b874fef10_campus-miami-shores_2.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\699ceb6ccd687d8b874fef10_campus-miami-shores_2.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/699cecb7ba5173dc77b6cf38_campus-liberty-city.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\699cecb7ba5173dc77b6cf38_campus-liberty-city.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/699cecbab85e3277cb5cbd0e_campus-liberty-city_1.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\699cecbab85e3277cb5cbd0e_campus-liberty-city_1.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/699cecbdba5173dc77b6cfbf_campus-liberty-city_2.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\699cecbdba5173dc77b6cfbf_campus-liberty-city_2.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/699ced07bb289c18dbd38144_campus-kendall.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\699ced07bb289c18dbd38144_campus-kendall.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/699ced133b3e3defbd5ee997_campus-kendall_1.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\699ced133b3e3defbd5ee997_campus-kendall_1.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/699ced1753d383e8ab0047c7_campus-kendall_2.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\699ced1753d383e8ab0047c7_campus-kendall_2.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/699ced5a5da8a3c4dae9ad79_campus-homestead.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\699ced5a5da8a3c4dae9ad79_campus-homestead.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/699cee749094e520bc4dc005_campus-fort-lauderdale.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\699cee749094e520bc4dc005_campus-fort-lauderdale.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/699cee77094751fd661c585f_campus-fort-lauderdale_1.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\699cee77094751fd661c585f_campus-fort-lauderdale_1.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/699cee7a293a4a1ba5c8cb60_campus-fort-lauderdale_2.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\699cee7a293a4a1ba5c8cb60_campus-fort-lauderdale_2.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/699ceee7114e236cf5cccd06_campus-coconut-grove_1.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\699ceee7114e236cf5cccd06_campus-coconut-grove_1.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/699ceee9e114a0aef3b5d4ab_campus-coconut-grove_2.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\699ceee9e114a0aef3b5d4ab_campus-coconut-grove_2.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/699ceeec6b747d434e7bb4fc_campus-coconut-grove.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\699ceeec6b747d434e7bb4fc_campus-coconut-grove.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/699cefa758455cb02bd55531_campus-montgomery.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\699cefa758455cb02bd55531_campus-montgomery.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/699cefa9594ff3bc45d8bee1_campus-montgomery_1.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\699cefa9594ff3bc45d8bee1_campus-montgomery_1.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/699cefac949427ce63bd548e_campus-montgomery_2.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\699cefac949427ce63bd548e_campus-montgomery_2.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/699cf005889895b966a56077_campus-huntsville.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\699cf005889895b966a56077_campus-huntsville.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/699cf008478837be78800a6f_campus-huntsville_1.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\699cf008478837be78800a6f_campus-huntsville_1.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/699cf00bb72ed64a24b06a1e_campus-huntsville_2.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\699cf00bb72ed64a24b06a1e_campus-huntsville_2.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/699cf0877b721a2b6eed7f05_campus-birmingham.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\699cf0877b721a2b6eed7f05_campus-birmingham.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/699cf08bf1e0d2380d476658_campus-birmingham_1.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\699cf08bf1e0d2380d476658_campus-birmingham_1.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/699cf08d7f235a94e581abac_campus-birmingham_2.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\699cf08d7f235a94e581abac_campus-birmingham_2.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/699cf6788f055fe0f795cf7d_states-alabama.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\699cf6788f055fe0f795cf7d_states-alabama.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/699cf67c78e7730f5a716f24_states-arizona.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\699cf67c78e7730f5a716f24_states-arizona.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/699cf68474164f78dca8d64e_states-florida.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\699cf68474164f78dca8d64e_states-florida.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/699cf688b586365de2d423f9_states-texas.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\699cf688b586365de2d423f9_states-texas.avif
+Content Type: image/avif
+
+Uri: https://cdn.prod.website-files.com/69005831cbccd57cbcb253c9/699cf70baed61dd0c5905f45_ryan-delk.avif
+File Name: E:\primer.com\69005831cbccd57cbcb253c9\699cf70baed61dd0c5905f45_ryan-delk.avif
+Content Type: image/avif
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg
+File Name: E:\primer.com\img\background-image.svg
+Content Type: image/svg+xml
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=5f51aff01e95c4ec1baec2ef
+File Name: E:\primer.com\js\jquery-3.5.1.min.dc5e7f18c8-1.js
+Content Type: application/javascript
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=68f68958c2668295d6501e97
+File Name: E:\primer.com\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/static/custom-checkbox-checkmark.589d534424.svg
+File Name: E:\primer.com\static\custom-checkbox-checkmark.589d534424.svg
+Content Type: image/svg+xml
+
+Uri: https://player.vimeo.com/api/player.js
+File Name: E:\primer.com\api\player.js
+Content Type: application/javascript
+
+Uri: https://primer-com.chilipiper.com/concierge-js/cjs/concierge.js
+File Name: E:\primer.com\concierge-js\cjs\concierge.js
+Content Type: application/javascript
+
+Uri: https://primer.com/
+File Name: E:\primer.com\index.htm
+Content Type: text/html
+
+Uri: https://primer.com/admissions
+File Name: E:\primer.com\admissions.html
+Content Type: text/html
+
+Uri: https://primer.com/approach
+File Name: E:\primer.com\approach.html
+Content Type: text/html
+
+Uri: https://primer.com/assets/Logo.svg
+File Name: E:\primer.com\assets\Logo.svg
+Content Type: image/svg+xml
+
+Uri: https://primer.com/careers
+File Name: E:\primer.com\careers.html
+Content Type: text/html
+
+Uri: https://primer.com/company
+File Name: E:\primer.com\company.html
+Content Type: text/html
+
+Uri: https://primer.com/contact
+File Name: E:\primer.com\contact.html
+Content Type: text/html
+
+Uri: https://primer.com/favicon.ico
+File Name: E:\primer.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://primer.com/fellowship
+File Name: E:\primer.com\fellowship.html
+Content Type: text/html
+
+Uri: https://primer.com/fonts/FiraCode/FiraCode-Regular.woff2
+File Name: E:\primer.com\fonts\FiraCode\FiraCode-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://primer.com/fonts/SakuraRegular/SakuraRegular.woff2
+File Name: E:\primer.com\fonts\SakuraRegular\SakuraRegular.woff2
+Content Type: font/woff2
+
+Uri: https://primer.com/fonts/Sirca/Sirca-Medium.woff2
+File Name: E:\primer.com\fonts\Sirca\Sirca-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://primer.com/fonts/Soehne/soehne-buch.woff2
+File Name: E:\primer.com\fonts\Soehne\soehne-buch.woff2
+Content Type: font/woff2
+
+Uri: https://primer.com/fonts/Soehne/soehne-dreiviertelfett.woff2
+File Name: E:\primer.com\fonts\Soehne\soehne-dreiviertelfett.woff2
+Content Type: font/woff2
+
+Uri: https://primer.com/fonts/Soehne/soehne-kraftig.woff2
+File Name: E:\primer.com\fonts\Soehne\soehne-kraftig.woff2
+Content Type: font/woff2
+
+Uri: https://primer.com/grades/3-5
+File Name: E:\primer.com\grades\3-5.html
+Content Type: text/html
+
+Uri: https://primer.com/grades/6-8
+File Name: E:\primer.com\grades\6-8.html
+Content Type: text/html
+
+Uri: https://primer.com/grades/k-2
+File Name: E:\primer.com\grades\k-2.html
+Content Type: text/html
+
+Uri: https://primer.com/legal
+File Name: E:\primer.com\legal.html
+Content Type: text/html
+
+Uri: https://primer.com/legal/laws
+File Name: E:\primer.com\legal\laws.html
+Content Type: text/html
+
+Uri: https://primer.com/legal/privacy-policy
+File Name: E:\primer.com\legal\privacy-policy.html
+Content Type: text/html
+
+Uri: https://primer.com/legal/standards-of-ethical-conduct
+File Name: E:\primer.com\legal\standards-of-ethical-conduct.html
+Content Type: text/html
+
+Uri: https://primer.com/legal/terms-of-use
+File Name: E:\primer.com\legal\terms-of-use.html
+Content Type: text/html
+
+Uri: https://primer.com/Logo.svg
+File Name: E:\primer.com\Logo.svg
+Content Type: image/svg+xml
+
+Uri: https://primer.com/news/a-day-in-the-life-at-primer
+File Name: E:\primer.com\news\a-day-in-the-life-at-primer.html
+Content Type: text/html
+
+Uri: https://primer.com/news/changing-laws-unlocking-schools
+File Name: E:\primer.com\news\changing-laws-unlocking-schools.html
+Content Type: text/html
+
+Uri: https://primer.com/news/math-olympiad
+File Name: E:\primer.com\news\math-olympiad.html
+Content Type: text/html
+
+Uri: https://primer.com/news/on-taking-kids-seriously
+File Name: E:\primer.com\news\on-taking-kids-seriously.html
+Content Type: text/html
+
+Uri: https://primer.com/news/primer-an-origin-story
+File Name: E:\primer.com\news\primer-an-origin-story.html
+Content Type: text/html
+
+Uri: https://primer.com/news/texas-announcement
+File Name: E:\primer.com\news\texas-announcement.html
+Content Type: text/html
+
+Uri: https://primer.com/newsroom
+File Name: E:\primer.com\newsroom.html
+Content Type: text/html
+
+Uri: https://primer.com/p/texas
+File Name: E:\primer.com\p\texas.html
+Content Type: text/html
+
+Uri: https://primer.com/real-estate
+File Name: E:\primer.com\real-estate.html
+Content Type: text/html
+
+Uri: https://primer.com/schools
+File Name: E:\primer.com\schools.html
+Content Type: text/html
+
+Uri: https://primer.com/schools/babcock-ranch-fl
+File Name: E:\primer.com\schools\babcock-ranch-fl.html
+Content Type: text/html
+
+Uri: https://primer.com/schools/birmingham-al
+File Name: E:\primer.com\schools\birmingham-al.html
+Content Type: text/html
+
+Uri: https://primer.com/schools/coconut-grove-fl
+File Name: E:\primer.com\schools\coconut-grove-fl.html
+Content Type: text/html
+
+Uri: https://primer.com/schools/dothan-al
+File Name: E:\primer.com\schools\dothan-al.html
+Content Type: text/html
+
+Uri: https://primer.com/schools/fort-lauderdale-fl
+File Name: E:\primer.com\schools\fort-lauderdale-fl.html
+Content Type: text/html
+
+Uri: https://primer.com/schools/homestead-fl
+File Name: E:\primer.com\schools\homestead-fl.html
+Content Type: text/html
+
+Uri: https://primer.com/schools/huntsville-al
+File Name: E:\primer.com\schools\huntsville-al.html
+Content Type: text/html
+
+Uri: https://primer.com/schools/kendall-fl
+File Name: E:\primer.com\schools\kendall-fl.html
+Content Type: text/html
+
+Uri: https://primer.com/schools/liberty-city-fl
+File Name: E:\primer.com\schools\liberty-city-fl.html
+Content Type: text/html
+
+Uri: https://primer.com/schools/live-oak-tx
+File Name: E:\primer.com\schools\live-oak-tx.html
+Content Type: text/html
+
+Uri: https://primer.com/schools/miami-shores-fl
+File Name: E:\primer.com\schools\miami-shores-fl.html
+Content Type: text/html
+
+Uri: https://primer.com/schools/milton-pace-fl
+File Name: E:\primer.com\schools\milton-pace-fl.html
+Content Type: text/html
+
+Uri: https://primer.com/schools/montgomery-al
+File Name: E:\primer.com\schools\montgomery-al.html
+Content Type: text/html
+
+Uri: https://primer.com/schools/ocala-fl
+File Name: E:\primer.com\schools\ocala-fl.html
+Content Type: text/html
+
+Uri: https://primer.com/schools/potranco-tx
+File Name: E:\primer.com\schools\potranco-tx.html
+Content Type: text/html
+
+Uri: https://primer.com/schools/scottsdale-az
+File Name: E:\primer.com\schools\scottsdale-az.html
+Content Type: text/html
+
+Uri: https://primer.com/schools/tampa-fl
+File Name: E:\primer.com\schools\tampa-fl.html
+Content Type: text/html
+
+Uri: https://primer.com/schools/university-heights-tx
+File Name: E:\primer.com\schools\university-heights-tx.html
+Content Type: text/html
+
+Uri: https://primer.com/signin
+File Name: E:\primer.com\signin.html
+Content Type: text/html
+
+Uri: https://primer.com/states/alabama
+File Name: E:\primer.com\states\alabama.html
+Content Type: text/html
+
+Uri: https://primer.com/states/arizona
+File Name: E:\primer.com\states\arizona.html
+Content Type: text/html
+
+Uri: https://primer.com/states/florida
+File Name: E:\primer.com\states\florida.html
+Content Type: text/html
+
+Uri: https://primer.com/states/texas
+File Name: E:\primer.com\states\texas.html
+Content Type: text/html
+
+Uri: https://primer.com/tuition
+File Name: E:\primer.com\tuition.html
+Content Type: text/html
+
+Uri: https://primer.com/_next/static/chunks/00q4f4~~998ld.js
+File Name: E:\primer.com\_next\static\chunks\00q4f4~~998ld.js
+Content Type: application/javascript
+
+Uri: https://primer.com/_next/static/chunks/00~ym06rcqxar.js
+File Name: E:\primer.com\_next\static\chunks\00~ym06rcqxar.js
+Content Type: application/javascript
+
+Uri: https://primer.com/_next/static/chunks/02cjbof-ip01a.js
+File Name: E:\primer.com\_next\static\chunks\02cjbof-ip01a.js
+Content Type: application/javascript
+
+Uri: https://primer.com/_next/static/chunks/04b32cr5~cyjw.css
+File Name: E:\primer.com\_next\static\chunks\04b32cr5~cyjw.css
+Content Type: text/css
+
+Uri: https://primer.com/_next/static/chunks/04bmbrjp2vrej.js
+File Name: E:\primer.com\_next\static\chunks\04bmbrjp2vrej.js
+Content Type: application/javascript
+
+Uri: https://primer.com/_next/static/chunks/04khluhc~vrlo.css
+File Name: E:\primer.com\_next\static\chunks\04khluhc~vrlo.css
+Content Type: text/css
+
+Uri: https://primer.com/_next/static/chunks/053s-6fkncuad.js
+File Name: E:\primer.com\_next\static\chunks\053s-6fkncuad.js
+Content Type: application/javascript
+
+Uri: https://primer.com/_next/static/chunks/06cdg7ym87ua0.js
+File Name: E:\primer.com\_next\static\chunks\06cdg7ym87ua0.js
+Content Type: application/javascript
+
+Uri: https://primer.com/_next/static/chunks/0b16gvkdr1w-h.css
+File Name: E:\primer.com\_next\static\chunks\0b16gvkdr1w-h.css
+Content Type: text/css
+
+Uri: https://primer.com/_next/static/chunks/0bq39wv0n.1f0.js
+File Name: E:\primer.com\_next\static\chunks\0bq39wv0n.1f0.js
+Content Type: application/javascript
+
+Uri: https://primer.com/_next/static/chunks/0c._cp45e5zf7.js
+File Name: E:\primer.com\_next\static\chunks\0c._cp45e5zf7.js
+Content Type: application/javascript
+
+Uri: https://primer.com/_next/static/chunks/0et~uoxup._d2.js
+File Name: E:\primer.com\_next\static\chunks\0et~uoxup._d2.js
+Content Type: application/javascript
+
+Uri: https://primer.com/_next/static/chunks/0hzb-a0nyb2zv.js
+File Name: E:\primer.com\_next\static\chunks\0hzb-a0nyb2zv.js
+Content Type: application/javascript
+
+Uri: https://primer.com/_next/static/chunks/0j.d66c__1qex.js
+File Name: E:\primer.com\_next\static\chunks\0j.d66c__1qex.js
+Content Type: application/javascript
+
+Uri: https://primer.com/_next/static/chunks/0jwfcgrtn3wws.js
+File Name: E:\primer.com\_next\static\chunks\0jwfcgrtn3wws.js
+Content Type: application/javascript
+
+Uri: https://primer.com/_next/static/chunks/0muc0og4-j~j-.js
+File Name: E:\primer.com\_next\static\chunks\0muc0og4-j~j-.js
+Content Type: application/javascript
+
+Uri: https://primer.com/_next/static/chunks/0o-xvjiftjrop.css
+File Name: E:\primer.com\_next\static\chunks\0o-xvjiftjrop.css
+Content Type: text/css
+
+Uri: https://primer.com/_next/static/chunks/0q~1tvj~3dd8c.js
+File Name: E:\primer.com\_next\static\chunks\0q~1tvj~3dd8c.js
+Content Type: application/javascript
+
+Uri: https://primer.com/_next/static/chunks/0tkpww3u~f_3l.js
+File Name: E:\primer.com\_next\static\chunks\0tkpww3u~f_3l.js
+Content Type: application/javascript
+
+Uri: https://primer.com/_next/static/chunks/0vtame8bhvi5..js
+File Name: E:\primer.com\_next\static\chunks\0vtame8bhvi5..js
+Content Type: application/javascript
+
+Uri: https://primer.com/_next/static/chunks/0wf8b4hd0566_.js
+File Name: E:\primer.com\_next\static\chunks\0wf8b4hd0566_.js
+Content Type: application/javascript
+
+Uri: https://primer.com/_next/static/chunks/0x-_nxybj_bn4.js
+File Name: E:\primer.com\_next\static\chunks\0x-_nxybj_bn4.js
+Content Type: application/javascript
+
+Uri: https://primer.com/_next/static/chunks/0x_-3xhx5.rt~.js
+File Name: E:\primer.com\_next\static\chunks\0x_-3xhx5.rt~.js
+Content Type: application/javascript
+
+Uri: https://primer.com/_next/static/chunks/0zfn8zl9j1ly9.js
+File Name: E:\primer.com\_next\static\chunks\0zfn8zl9j1ly9.js
+Content Type: application/javascript
+
+Uri: https://primer.com/_next/static/chunks/0_k5wjhsdq5l2.js
+File Name: E:\primer.com\_next\static\chunks\0_k5wjhsdq5l2.js
+Content Type: application/javascript
+
+Uri: https://primer.com/_next/static/chunks/122ssl66vpz49.js
+File Name: E:\primer.com\_next\static\chunks\122ssl66vpz49.js
+Content Type: application/javascript
+
+Uri: https://primer.com/_next/static/chunks/13z05cok10fh..js
+File Name: E:\primer.com\_next\static\chunks\13z05cok10fh..js
+Content Type: application/javascript
+
+Uri: https://primer.com/_next/static/chunks/149b9k6zv_dkf.js
+File Name: E:\primer.com\_next\static\chunks\149b9k6zv_dkf.js
+Content Type: application/javascript
+
+Uri: https://primer.com/_next/static/chunks/1580ss_ehg068.js
+File Name: E:\primer.com\_next\static\chunks\1580ss_ehg068.js
+Content Type: application/javascript
+
+Uri: https://primer.com/_next/static/chunks/17sp5omsrtw~q.css
+File Name: E:\primer.com\_next\static\chunks\17sp5omsrtw~q.css
+Content Type: text/css
+
+Uri: https://primer.com/_next/static/chunks/17wr_8rcf3e3z.js
+File Name: E:\primer.com\_next\static\chunks\17wr_8rcf3e3z.js
+Content Type: application/javascript
+
+Uri: https://primer.com/_next/static/chunks/turbopack-0-m236zzp4xhb.js
+File Name: E:\primer.com\_next\static\chunks\turbopack-0-m236zzp4xhb.js
+Content Type: application/javascript
+
+Uri: https://primer.com/_next/static/chunks/turbopack-068s690f7i0o-.js
+File Name: E:\primer.com\_next\static\chunks\turbopack-068s690f7i0o-.js
+Content Type: application/javascript
+
+Uri: https://primer.com/_next/static/OWw2ujY9abq0Hrw3SSa7B/_buildManifest.js
+File Name: E:\primer.com\_next\static\OWw2ujY9abq0Hrw3SSa7B\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://primer.com/_next/static/OWw2ujY9abq0Hrw3SSa7B/_clientMiddlewareManifest.js
+File Name: E:\primer.com\_next\static\OWw2ujY9abq0Hrw3SSa7B\_clientMiddlewareManifest.js
+Content Type: application/javascript
+
+Uri: https://primer.com/_next/static/OWw2ujY9abq0Hrw3SSa7B/_ssgManifest.js
+File Name: E:\primer.com\_next\static\OWw2ujY9abq0Hrw3SSa7B\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/v833ccba57c9e4d2798f2e76cebdd09a11778172276447
+File Name: E:\primer.com\beacon.min.js\v833ccba57c9e4d2798f2e76cebdd09a11778172276447
+Content Type: text/javascript
+
+Uri: https://unpkg.com/imask@7.6.1/dist/imask.js
+File Name: E:\primer.com\imask@7.6.1\dist\imask.js
+Content Type: text/javascript
+
